@@ -1,0 +1,68 @@
+﻿@model CoffeeMap.ViewModels.CoffeeShopCreateEditVM
+@{
+    ViewData["Title"] = "Редагувати кав'ярню";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="Edit" method="post" enctype="multipart/form-data">
+    @Html.HiddenFor(m => m.Id)
+    @Html.HiddenFor(m => m.ImageUrl) <!-- чтобы не потерять старый URL, если файл не загружаем -->
+
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Address" class="form-label"></label>
+        <input asp-for="Address" class="form-control" />
+    </div>
+
+    <div class="row">
+        <div class="col-md-6 mb-3">
+            <label asp-for="Lat" class="form-label"></label>
+            <input asp-for="Lat" class="form-control" type="number" step="any" />
+            <span asp-validation-for="Lat" class="text-danger"></span>
+        </div>
+        <div class="col-md-6 mb-3">
+            <label asp-for="Lng" class="form-label"></label>
+            <input asp-for="Lng" class="form-control" type="number" step="any" />
+            <span asp-validation-for="Lng" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="OpeningHours" class="form-label"></label>
+        <input asp-for="OpeningHours" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Phone" class="form-label"></label>
+        <input asp-for="Phone" class="form-control" />
+    </div>
+
+    @if (!string.IsNullOrWhiteSpace(Model.ImageUrl))
+    {
+        <div class="mb-3">
+            <label class="form-label d-block">Поточне фото:</label>
+            <img src="@Model.ImageUrl" alt="Coffee shop" style="max-height:160px;border-radius:8px;border:1px solid #ddd" />
+        </div>
+    }
+
+    <div class="mb-3">
+        <label class="form-label">Замінити фото</label>
+        <input asp-for="ImageFile" type="file" class="form-control" accept=".jpg,.jpeg,.png,.webp" />
+        <small class="text-muted">Залиште пустим, щоб зберегти поточне зображення.</small>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Зберегти</button>
+    <a asp-action="Index" class="btn btn-secondary">Назад</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

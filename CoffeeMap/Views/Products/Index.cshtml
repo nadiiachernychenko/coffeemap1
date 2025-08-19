@@ -1,0 +1,50 @@
+﻿@model IEnumerable<CoffeeMap.Models.Product>
+@{
+    ViewData["Title"] = "Товари / Меню";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h1 class="m-0">Товари / Меню</h1>
+    <a class="btn btn-primary" asp-action="Create">Добавити товар</a>
+</div>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">Поки нема товарів. Створіть перший.</div>
+}
+else
+{
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-3">
+        @foreach (var p in Model)
+        {
+            <div class="col">
+                <div class="card h-100 shadow-sm">
+                    @if (!string.IsNullOrWhiteSpace(p.ImageUrl))
+                    {
+                        <img src="@p.ImageUrl" class="card-img-top" style="object-fit:cover;height:180px" alt="image" />
+                    }
+                    <div class="card-body d-flex flex-column">
+                        <h5 class="card-title">@p.Title</h5>
+                        @if (p.CoffeeShop != null)
+                        {
+                            <div class="small text-muted">Кав'ярня: @p.CoffeeShop.Name</div>
+                        }
+                        @if (!string.IsNullOrWhiteSpace(p.Category))
+                        {
+                            <span class="badge bg-secondary my-2">@p.Category</span>
+                        }
+                        <p class="mb-2">@p.Description</p>
+                        <div class="mt-auto d-flex justify-content-between align-items-center">
+                            <div class="fw-bold">@p.Price.ToString("0.00")</div>
+                            <div class="btn-group">
+                                <a class="btn btn-sm btn-outline-primary" asp-action="Details" asp-route-id="@p.Id">Подробнее</a>
+                                <a class="btn btn-sm btn-outline-secondary" asp-action="Edit" asp-route-id="@p.Id">Правка</a>
+                                <a class="btn btn-sm btn-outline-danger" asp-action="Delete" asp-route-id="@p.Id">Удалить</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}

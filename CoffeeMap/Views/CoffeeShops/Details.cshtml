@@ -1,0 +1,16 @@
+﻿@model CoffeeMap.Models.CoffeeShop
+
+<h1>@Model.Name</h1>
+
+@if (!string.IsNullOrWhiteSpace(Model.ImageUrl))
+{
+    <img src="@Model.ImageUrl" class="img-fluid mb-3" style="object-fit:cover;height:300px;width:100%;" alt="@Model.Name" />
+}
+
+<p><strong>Адреса:</strong> @Model.Address</p>
+<p><strong>Телефон:</strong> @Model.Phone</p>
+<p><strong>Години работи:</strong> @Model.OpeningHours</p>
+<p>
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-secondary">Редагувати</a>
+    <a asp-action="Index" class="btn btn-primary">Назад до списку</a>
+</p>

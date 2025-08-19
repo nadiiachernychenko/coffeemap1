@@ -1,0 +1,60 @@
+﻿@model CoffeeMap.ViewModels.ProductCreateEditVM
+@{
+    ViewData["Title"] = "Редагувати товар";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="Edit" enctype="multipart/form-data">
+    <input type="hidden" asp-for="Id" />
+    <div class="mb-3">
+        <label asp-for="CoffeeShopId" class="form-label"></label>
+        <select asp-for="CoffeeShopId" class="form-select" asp-items="ViewBag.CoffeeShopId"></select>
+        <span asp-validation-for="CoffeeShopId" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Title" class="form-label"></label>
+        <input asp-for="Title" class="form-control" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Category" class="form-label"></label>
+        <input asp-for="Category" class="form-control" />
+        <span asp-validation-for="Category" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Price" class="form-label"></label>
+        <input asp-for="Price" class="form-control" type="text" inputmode="decimal" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label"></label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+
+    @if (!string.IsNullOrWhiteSpace(Model.ImageUrl))
+    {
+        <div class="mb-3">
+            <label class="form-label">Поточна картинка</label>
+            <div>
+                <img src="@Model.ImageUrl" alt="image" style="max-height:200px" />
+            </div>
+        </div>
+    }
+
+    <div class="mb-3">
+        <label class="form-label">Нова картинка (якщо потрібно замінити)</label>
+        <input asp-for="ImageFile" type="file" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Зберегти</button>
+    <a asp-action="Index" class="btn btn-secondary">Відміна</a>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

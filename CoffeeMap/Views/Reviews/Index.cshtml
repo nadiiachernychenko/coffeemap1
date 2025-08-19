@@ -1,0 +1,33 @@
+﻿@model IEnumerable<CoffeeMap.Models.Review>
+@{
+    ViewData["Title"] = "Відгуки";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h1 class="m-0">Відгуки</h1>
+    <a class="btn btn-primary" asp-action="Create">Добавити відгук</a>
+</div>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">Відгуків поки нема.</div>
+}
+else
+{
+    <div class="list-group">
+        @foreach (var r in Model)
+        {
+            <a class="list-group-item list-group-item-action" asp-action="Details" asp-route-id="@r.Id">
+                <div class="d-flex w-100 justify-content-between">
+                    <h5 class="mb-1">@r.CoffeeShop?.Name</h5>
+                    <small class="text-muted">@r.CreatedAt.ToLocalTime()</small>
+                </div>
+                <p class="mb-1">Оценка: @r.Rating/5</p>
+                @if (!string.IsNullOrWhiteSpace(r.Comment))
+                {
+                    <small class="text-muted">@r.Comment</small>
+                }
+            </a>
+        }
+    </div>
+}
