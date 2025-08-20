@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0CB8A5CA-C1E4-4FE7-9112-21065D96B62C}|CoffeeMap\\CoffeeMap.csproj|c:\\users\\lenovo\\source\\repos\\coffeemap1\\coffeemap\\views\\coffeeshops\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CB8A5CA-C1E4-4FE7-9112-21065D96B62C}|CoffeeMap\\CoffeeMap.csproj|solutionrelative:coffeemap\\views\\coffeeshops\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB8A5CA-C1E4-4FE7-9112-21065D96B62C}|CoffeeMap\\CoffeeMap.csproj|c:\\users\\lenovo\\source\\repos\\coffeemap1\\coffeemap\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CB8A5CA-C1E4-4FE7-9112-21065D96B62C}|CoffeeMap\\CoffeeMap.csproj|solutionrelative:coffeemap\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB8A5CA-C1E4-4FE7-9112-21065D96B62C}|CoffeeMap\\CoffeeMap.csproj|c:\\users\\lenovo\\source\\repos\\coffeemap1\\coffeemap\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CB8A5CA-C1E4-4FE7-9112-21065D96B62C}|CoffeeMap\\CoffeeMap.csproj|solutionrelative:coffeemap\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB8A5CA-C1E4-4FE7-9112-21065D96B62C}|CoffeeMap\\CoffeeMap.csproj|c:\\users\\lenovo\\source\\repos\\coffeemap1\\coffeemap\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CB8A5CA-C1E4-4FE7-9112-21065D96B62C}|CoffeeMap\\CoffeeMap.csproj|solutionrelative:coffeemap\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB8A5CA-C1E4-4FE7-9112-21065D96B62C}|CoffeeMap\\CoffeeMap.csproj|c:\\users\\lenovo\\source\\repos\\coffeemap1\\coffeemap\\views\\coffeeshops\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CB8A5CA-C1E4-4FE7-9112-21065D96B62C}|CoffeeMap\\CoffeeMap.csproj|solutionrelative:coffeemap\\views\\coffeeshops\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB8A5CA-C1E4-4FE7-9112-21065D96B62C}|CoffeeMap\\CoffeeMap.csproj|c:\\users\\lenovo\\source\\repos\\coffeemap1\\coffeemap\\controllers\\coffeeshopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CB8A5CA-C1E4-4FE7-9112-21065D96B62C}|CoffeeMap\\CoffeeMap.csproj|solutionrelative:coffeemap\\controllers\\coffeeshopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0CB8A5CA-C1E4-4FE7-9112-21065D96B62C}|CoffeeMap\\CoffeeMap.csproj|c:\\users\\lenovo\\source\\repos\\coffeemap1\\coffeemap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CB8A5CA-C1E4-4FE7-9112-21065D96B62C}|CoffeeMap\\CoffeeMap.csproj|solutionrelative:coffeemap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0CB8A5CA-C1E4-4FE7-9112-21065D96B62C}|CoffeeMap\\CoffeeMap.csproj|c:\\users\\lenovo\\source\\repos\\coffeemap1\\coffeemap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0CB8A5CA-C1E4-4FE7-9112-21065D96B62C}|CoffeeMap\\CoffeeMap.csproj|solutionrelative:coffeemap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CB8A5CA-C1E4-4FE7-9112-21065D96B62C}|CoffeeMap\\CoffeeMap.csproj|c:\\users\\lenovo\\source\\repos\\coffeemap1\\coffeemap\\views\\coffeeshops\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0CB8A5CA-C1E4-4FE7-9112-21065D96B62C}|CoffeeMap\\CoffeeMap.csproj|solutionrelative:coffeemap\\views\\coffeeshops\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CB8A5CA-C1E4-4FE7-9112-21065D96B62C}|CoffeeMap\\CoffeeMap.csproj|c:\\users\\lenovo\\source\\repos\\coffeemap1\\coffeemap\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0CB8A5CA-C1E4-4FE7-9112-21065D96B62C}|CoffeeMap\\CoffeeMap.csproj|c:\\users\\lenovo\\source\\repos\\coffeemap1\\coffeemap\\data\\appdbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CB8A5CA-C1E4-4FE7-9112-21065D96B62C}|CoffeeMap\\CoffeeMap.csproj|solutionrelative:coffeemap\\data\\appdbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CB8A5CA-C1E4-4FE7-9112-21065D96B62C}|CoffeeMap\\CoffeeMap.csproj|c:\\users\\lenovo\\source\\repos\\coffeemap1\\coffeemap\\controllers\\coffeeshopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CB8A5CA-C1E4-4FE7-9112-21065D96B62C}|CoffeeMap\\CoffeeMap.csproj|solutionrelative:coffeemap\\controllers\\coffeeshopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CB8A5CA-C1E4-4FE7-9112-21065D96B62C}|CoffeeMap\\CoffeeMap.csproj|c:\\users\\lenovo\\source\\repos\\coffeemap1\\coffeemap\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -86,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,43 +114,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "CoffeeMap\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "CoffeeMap\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-20T08:03:51.765Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "CoffeeMap\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "CoffeeMap\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Views\\CoffeeShops\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoffeeMap\\Views\\CoffeeShops\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Views\\CoffeeShops\\Index.cshtml*",
+              "RelativeToolTip": "CoffeeMap\\Views\\CoffeeShops\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-20T08:03:49.011Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Review.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Models\\Review.cs",
-              "RelativeDocumentMoniker": "CoffeeMap\\Models\\Review.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Models\\Review.cs",
-              "RelativeToolTip": "CoffeeMap\\Models\\Review.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T08:03:37.375Z"
+              "WhenOpened": "2025-08-20T09:55:23.941Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "CoffeeMap\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "CoffeeMap\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T09:55:14.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CoffeeMap\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CoffeeMap\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T09:55:12.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CoffeeMap\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CoffeeMap\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T09:54:50.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\appsettings.json",
               "RelativeDocumentMoniker": "CoffeeMap\\appsettings.json",
@@ -142,12 +174,11 @@
               "RelativeToolTip": "CoffeeMap\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-20T08:02:57.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T08:02:57.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Program.cs",
               "RelativeDocumentMoniker": "CoffeeMap\\Program.cs",
@@ -159,12 +190,74 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CoffeeShopsController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Controllers\\CoffeeShopsController.cs",
+              "RelativeDocumentMoniker": "CoffeeMap\\Controllers\\CoffeeShopsController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Controllers\\CoffeeShopsController.cs",
+              "RelativeToolTip": "CoffeeMap\\Controllers\\CoffeeShopsController.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAUwJcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T07:40:51.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Views\\CoffeeShops\\Create.cshtml",
+              "RelativeDocumentMoniker": "CoffeeMap\\Views\\CoffeeShops\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Views\\CoffeeShops\\Create.cshtml",
+              "RelativeToolTip": "CoffeeMap\\Views\\CoffeeShops\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T07:40:23.608Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "CoffeeMap\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Models\\Review.cs",
+              "RelativeToolTip": "CoffeeMap\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:03:37.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoffeeMap\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CoffeeMap\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T08:03:49.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CoffeeMap\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CoffeeMap\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T08:03:51.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "CoffeeMap\\Models\\ErrorViewModel.cs",
@@ -176,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "CoffeeMap\\Data\\ApplicationDbContext.cs",
@@ -188,19 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Views\\CoffeeShops\\Create.cshtml",
-              "RelativeDocumentMoniker": "CoffeeMap\\Views\\CoffeeShops\\Create.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Views\\CoffeeShops\\Create.cshtml",
-              "RelativeToolTip": "CoffeeMap\\Views\\CoffeeShops\\Create.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-20T07:40:23.608Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "AppDbSeeder.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Data\\AppDbSeeder.cs",
               "RelativeDocumentMoniker": "CoffeeMap\\Data\\AppDbSeeder.cs",
@@ -212,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Models\\Product.cs",
               "RelativeDocumentMoniker": "CoffeeMap\\Models\\Product.cs",
@@ -224,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "CoffeeShop.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Models\\CoffeeShop.cs",
               "RelativeDocumentMoniker": "CoffeeMap\\Models\\CoffeeShop.cs",
@@ -236,19 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CoffeeShopsController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Controllers\\CoffeeShopsController.cs",
-              "RelativeDocumentMoniker": "CoffeeMap\\Controllers\\CoffeeShopsController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Controllers\\CoffeeShopsController.cs",
-              "RelativeToolTip": "CoffeeMap\\Controllers\\CoffeeShopsController.cs",
-              "ViewState": "AgIAAJ4AAAAAAAAAAAAUwJcAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T07:40:51.012Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "CoffeeMap\\Views\\_ViewImports.cshtml",
@@ -260,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "CoffeeShopCreateEditVM.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\ViewModels\\CoffeeShopCreateEditVM.cs",
               "RelativeDocumentMoniker": "CoffeeMap\\ViewModels\\CoffeeShopCreateEditVM.cs",
@@ -272,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Views\\Products\\Create.cshtml",
               "RelativeDocumentMoniker": "CoffeeMap\\Views\\Products\\Create.cshtml",
@@ -284,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "20250820080122_RemoveSeederCoffee.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Migrations\\20250820080122_RemoveSeederCoffee.cs",
               "RelativeDocumentMoniker": "CoffeeMap\\Migrations\\20250820080122_RemoveSeederCoffee.cs",
@@ -296,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Views\\CoffeeShops\\Delete.cshtml",
               "RelativeDocumentMoniker": "CoffeeMap\\Views\\CoffeeShops\\Delete.cshtml",
@@ -308,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Views\\Products\\Details.cshtml",
               "RelativeDocumentMoniker": "CoffeeMap\\Views\\Products\\Details.cshtml",
@@ -320,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\Views\\Reviews\\Create.cshtml",
               "RelativeDocumentMoniker": "CoffeeMap\\Views\\Reviews\\Create.cshtml",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "L8WaTivDpLZ+NA3vC5txI5QOMZ8MvbJpm4yiSK8Z6ho=",
+  "Hash": "5fNFYBA1XcVWmSADDPvbB0xu1we3l0BNpURA7S9Me60=",
   "Source": "CoffeeMap",
   "BasePath": "_content/CoffeeMap",
   "Mode": "Default",
@@ -1319,6 +1319,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+      "Identity": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\wwwroot\\uploads\\0cd9556638584eeca43f983270a6910d.jpg",
+      "SourceId": "CoffeeMap",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\wwwroot\\",
+      "BasePath": "_content/CoffeeMap",
+      "RelativePath": "uploads/0cd9556638584eeca43f983270a6910d#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5cibloavmq",
+      "Integrity": "a9mPJl64uweHxbGrb5lwl87+O0t6cRlI+/a8zo+6Few=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\0cd9556638584eeca43f983270a6910d.jpg"
+    },
+    {
       "Identity": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\wwwroot\\uploads\\27ddd58780b649cb92b2eb25a235abd9.png",
       "SourceId": "CoffeeMap",
       "SourceType": "Discovered",
@@ -1466,6 +1487,27 @@
       "OriginalItemSpec": "wwwroot\\uploads\\b3afbe48d88343e4a7699ebc12b8c285.jpg"
     },
     {
+      "Identity": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\wwwroot\\uploads\\shops\\3530da44667543558199d800ef9faf65.jpg",
+      "SourceId": "CoffeeMap",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\wwwroot\\",
+      "BasePath": "_content/CoffeeMap",
+      "RelativePath": "uploads/shops/3530da44667543558199d800ef9faf65#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7y5zuk38ue",
+      "Integrity": "IRmc7asAuDKzn/PPmUSBF+05GUYnJ3WyN1Tk8uamCWw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\shops\\3530da44667543558199d800ef9faf65.jpg"
+    },
+    {
       "Identity": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\wwwroot\\uploads\\shops\\584a3b6dadf141e6874b4af409d8b602.jpg",
       "SourceId": "CoffeeMap",
       "SourceType": "Discovered",
@@ -1550,6 +1592,27 @@
       "OriginalItemSpec": "wwwroot\\uploads\\shops\\80760d9dbc4a48f78ea7be27d0435cd5.png"
     },
     {
+      "Identity": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\wwwroot\\uploads\\shops\\b1e75526f9fc4b89a57dd6d0ffd10006.jpg",
+      "SourceId": "CoffeeMap",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\wwwroot\\",
+      "BasePath": "_content/CoffeeMap",
+      "RelativePath": "uploads/shops/b1e75526f9fc4b89a57dd6d0ffd10006#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7y5zuk38ue",
+      "Integrity": "IRmc7asAuDKzn/PPmUSBF+05GUYnJ3WyN1Tk8uamCWw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\shops\\b1e75526f9fc4b89a57dd6d0ffd10006.jpg"
+    },
+    {
       "Identity": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\wwwroot\\uploads\\shops\\e23accc84c784d7895c270f061be9cbe.jpg",
       "SourceId": "CoffeeMap",
       "SourceType": "Discovered",
@@ -1611,6 +1674,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\shops\\efed3c306d784c4d9fa27945ad6ab84a.png"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\wwwroot\\uploads\\shops\\f0676a110ee24db08cc2b7f81c5a2193.jpg",
+      "SourceId": "CoffeeMap",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\wwwroot\\",
+      "BasePath": "_content/CoffeeMap",
+      "RelativePath": "uploads/shops/f0676a110ee24db08cc2b7f81c5a2193#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bfpmflucuh",
+      "Integrity": "N+2QlLALnYB9ZTJKYSarBPEcyqNTxC7KEl3IN9CQ8vM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\shops\\f0676a110ee24db08cc2b7f81c5a2193.jpg"
     },
     {
       "Identity": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\wwwroot\\uploads\\shops\\f7eea11957e84fc18c0ebb90938fae7d.jpg",
@@ -6720,6 +6804,88 @@
       ]
     },
     {
+      "Route": "uploads/0cd9556638584eeca43f983270a6910d.5cibloavmq.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\wwwroot\\uploads\\0cd9556638584eeca43f983270a6910d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14835"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a9mPJl64uweHxbGrb5lwl87+O0t6cRlI+/a8zo+6Few=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Aug 2025 09:16:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5cibloavmq"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/0cd9556638584eeca43f983270a6910d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a9mPJl64uweHxbGrb5lwl87+O0t6cRlI+/a8zo+6Few="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/0cd9556638584eeca43f983270a6910d.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\wwwroot\\uploads\\0cd9556638584eeca43f983270a6910d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14835"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a9mPJl64uweHxbGrb5lwl87+O0t6cRlI+/a8zo+6Few=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Aug 2025 09:16:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a9mPJl64uweHxbGrb5lwl87+O0t6cRlI+/a8zo+6Few="
+        }
+      ]
+    },
+    {
       "Route": "uploads/27ddd58780b649cb92b2eb25a235abd9.30uuk9jsry.png",
       "AssetFile": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\wwwroot\\uploads\\27ddd58780b649cb92b2eb25a235abd9.png",
       "Selectors": [],
@@ -7294,6 +7460,88 @@
       ]
     },
     {
+      "Route": "uploads/shops/3530da44667543558199d800ef9faf65.7y5zuk38ue.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\wwwroot\\uploads\\shops\\3530da44667543558199d800ef9faf65.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IRmc7asAuDKzn/PPmUSBF+05GUYnJ3WyN1Tk8uamCWw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Aug 2025 09:15:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7y5zuk38ue"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/shops/3530da44667543558199d800ef9faf65.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IRmc7asAuDKzn/PPmUSBF+05GUYnJ3WyN1Tk8uamCWw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/shops/3530da44667543558199d800ef9faf65.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\wwwroot\\uploads\\shops\\3530da44667543558199d800ef9faf65.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IRmc7asAuDKzn/PPmUSBF+05GUYnJ3WyN1Tk8uamCWw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Aug 2025 09:15:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IRmc7asAuDKzn/PPmUSBF+05GUYnJ3WyN1Tk8uamCWw="
+        }
+      ]
+    },
+    {
       "Route": "uploads/shops/584a3b6dadf141e6874b4af409d8b602.7y5zuk38ue.jpg",
       "AssetFile": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\wwwroot\\uploads\\shops\\584a3b6dadf141e6874b4af409d8b602.jpg",
       "Selectors": [],
@@ -7622,6 +7870,88 @@
       ]
     },
     {
+      "Route": "uploads/shops/b1e75526f9fc4b89a57dd6d0ffd10006.7y5zuk38ue.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\wwwroot\\uploads\\shops\\b1e75526f9fc4b89a57dd6d0ffd10006.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IRmc7asAuDKzn/PPmUSBF+05GUYnJ3WyN1Tk8uamCWw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Aug 2025 09:15:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7y5zuk38ue"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/shops/b1e75526f9fc4b89a57dd6d0ffd10006.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IRmc7asAuDKzn/PPmUSBF+05GUYnJ3WyN1Tk8uamCWw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/shops/b1e75526f9fc4b89a57dd6d0ffd10006.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\wwwroot\\uploads\\shops\\b1e75526f9fc4b89a57dd6d0ffd10006.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IRmc7asAuDKzn/PPmUSBF+05GUYnJ3WyN1Tk8uamCWw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Aug 2025 09:15:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IRmc7asAuDKzn/PPmUSBF+05GUYnJ3WyN1Tk8uamCWw="
+        }
+      ]
+    },
+    {
       "Route": "uploads/shops/e23accc84c784d7895c270f061be9cbe.bfpmflucuh.jpg",
       "AssetFile": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\wwwroot\\uploads\\shops\\e23accc84c784d7895c270f061be9cbe.jpg",
       "Selectors": [],
@@ -7864,6 +8194,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-uStIQwDQ5XRniQFQfkLNdV2c9fg4UVI/fwZW3OThy60="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/shops/f0676a110ee24db08cc2b7f81c5a2193.bfpmflucuh.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\wwwroot\\uploads\\shops\\f0676a110ee24db08cc2b7f81c5a2193.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N+2QlLALnYB9ZTJKYSarBPEcyqNTxC7KEl3IN9CQ8vM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Aug 2025 09:15:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bfpmflucuh"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/shops/f0676a110ee24db08cc2b7f81c5a2193.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N+2QlLALnYB9ZTJKYSarBPEcyqNTxC7KEl3IN9CQ8vM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/shops/f0676a110ee24db08cc2b7f81c5a2193.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\wwwroot\\uploads\\shops\\f0676a110ee24db08cc2b7f81c5a2193.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N+2QlLALnYB9ZTJKYSarBPEcyqNTxC7KEl3IN9CQ8vM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Aug 2025 09:15:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N+2QlLALnYB9ZTJKYSarBPEcyqNTxC7KEl3IN9CQ8vM="
         }
       ]
     },
