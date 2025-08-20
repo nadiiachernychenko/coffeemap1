@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wOmD+E3Q4g4=",
+  "dgSpecHash": "FYqet20EXaI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\CoffeeMap\\CoffeeMap\\CoffeeMap.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\CoffeeMap.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

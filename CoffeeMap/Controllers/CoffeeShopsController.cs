@@ -129,10 +129,17 @@ namespace CoffeeMap.Controllers
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null) return NotFound();
-            var shop = await _context.CoffeeShops.FindAsync(id);
+
+            var shop = await _context.CoffeeShops
+                .Include(c => c.Products)
+                .Include(c => c.Reviews)
+                .FirstOrDefaultAsync(c => c.Id == id);
+
             if (shop == null) return NotFound();
+
             return View(shop);
         }
+
 
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]

@@ -1,17 +1,9 @@
 ﻿@model CoffeeMap.Models.CoffeeShop
 @{
-    ViewData["Title"] = Model.Name;
+    ViewData["Title"] = "Видалити кав'ярню";
 }
 
-<div class="d-flex justify-content-between align-items-center mb-3">
-    <h1 class="m-0">@Model.Name</h1>
-    <div class="btn-group">
-        <a class="btn btn-secondary" asp-action="Index">Назад до списку</a>
-        <a class="btn btn-primary" asp-controller="Products" asp-action="Create">Добавити товар</a>
-        <a class="btn btn-outline-primary" asp-controller="Reviews" asp-action="Create" asp-route-coffeeShopId="@Model.Id">Добавити відгук</a>
-        <a class="btn btn-outline-secondary" asp-action="Edit" asp-route-id="@Model.Id">Редагувати кав'ярню'</a>
-    </div>
-</div>
+<h1>Удалить кофейню</h1>
 
 <div class="row g-3">
     <div class="col-12 col-lg-6">
@@ -42,8 +34,8 @@
     <div class="col-12 col-lg-6">
         <div class="card h-100">
             <div class="card-body">
-                <h5>Відгуки (@Model.Reviews.Count)</h5>
-                @if (!Model.Reviews.Any())
+                <h5>Отзывы (@(Model.Reviews?.Count ?? 0))</h5>
+                @if (Model.Reviews == null || !Model.Reviews.Any())
                 {
                     <div class="text-muted">Поки нема відгуків.</div>
                 }
@@ -53,7 +45,7 @@
                         @foreach (var r in Model.Reviews.OrderByDescending(x => x.CreatedAt).Take(5))
                         {
                             <li class="list-group-item">
-                                <strong>Оценка:</strong> @r.Rating/5
+                                <strong>Оцінка:</strong> @r.Rating/5
                                 @if (!string.IsNullOrWhiteSpace(r.Comment))
                                 {
                                     <div>@r.Comment</div>
@@ -70,11 +62,11 @@
 
 <hr class="my-4" />
 
-<h3>Меню / Товари (@Model.Products.Count)</h3>
+<h3>Меню / Товары (@(Model.Products?.Count ?? 0))</h3>
 
-@if (!Model.Products.Any())
+@if (Model.Products == null || !Model.Products.Any())
 {
-    <div class="alert alert-info">Нема товарів. Натисніть “Додати товар”.</div>
+    <div class="alert alert-info">Нет товаров.</div>
 }
 else
 {
@@ -85,7 +77,7 @@ else
                 <div class="card h-100 shadow-sm">
                     @if (!string.IsNullOrWhiteSpace(p.ImageUrl))
                     {
-                        <img src="@p.ImageUrl" class="card-img-top" style="object-fit:cover;height:180px" alt="image" />
+                        <img src="@p.ImageUrl" class="card-img-top" style="object-fit:cover;height:180px" alt="@p.Title" />
                     }
                     <div class="card-body d-flex flex-column">
                         <h5 class="card-title">@p.Title</h5>
@@ -94,17 +86,15 @@ else
                             <span class="badge bg-secondary mb-2">@p.Category</span>
                         }
                         <p class="mb-2">@p.Description</p>
-                        <div class="mt-auto">
-                            <div class="fw-bold mb-2">@p.Price.ToString("0.00")</div>
-                            <div class="d-flex gap-2">
-                                <a class="btn btn-sm btn-outline-primary" asp-controller="Products" asp-action="Details" asp-route-id="@p.Id">Подробнее</a>
-                                <a class="btn btn-sm btn-outline-secondary" asp-controller="Products" asp-action="Edit" asp-route-id="@p.Id">Редактировать</a>
-                                <a class="btn btn-sm btn-outline-danger" asp-controller="Products" asp-action="Delete" asp-route-id="@p.Id">Удалить</a>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
         }
     </div>
 }
+
+<form asp-action="Delete" method="post" class="mt-4">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Видалити кав'ярню'</button>
+    <a class="btn btn-secondary" asp-action="Index">Відміна</a>
+</form>

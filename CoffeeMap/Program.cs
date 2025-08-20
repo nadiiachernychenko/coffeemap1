@@ -28,10 +28,10 @@ app.MapControllerRoute(
     pattern: "{controller=CoffeeShops}/{action=Index}/{id?}");
 
 // ---- גûחמג סטהונא ----
-using (var scope = app.Services.CreateScope())
-{
-    var db = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
-    CoffeeMap.Data.AppDbSeeder.SeedAsync(db).GetAwaiter().GetResult();
-}
+//using (var scope = app.Services.CreateScope())
+//{
+//var db = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
+  //  CoffeeMap.Data.AppDbSeeder.SeedAsync(db).GetAwaiter().GetResult();
+//
 
 app.Run();

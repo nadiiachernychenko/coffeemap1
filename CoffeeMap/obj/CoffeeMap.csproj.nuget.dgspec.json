@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\source\\repos\\CoffeeMap\\CoffeeMap\\CoffeeMap.csproj": {}
+    "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\CoffeeMap.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\source\\repos\\CoffeeMap\\CoffeeMap\\CoffeeMap.csproj": {
+    "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\CoffeeMap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\CoffeeMap\\CoffeeMap\\CoffeeMap.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\CoffeeMap.csproj",
         "projectName": "CoffeeMap",
-        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\CoffeeMap\\CoffeeMap\\CoffeeMap.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\CoffeeMap.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\CoffeeMap\\CoffeeMap\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\coffeemap1\\CoffeeMap\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

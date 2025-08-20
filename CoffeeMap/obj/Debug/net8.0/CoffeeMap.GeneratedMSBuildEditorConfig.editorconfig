@@ -17,101 +17,101 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CoffeeMap
 build_property.RootNamespace = CoffeeMap
-build_property.ProjectDir = C:\Users\LENOVO\source\repos\CoffeeMap\CoffeeMap\
+build_property.ProjectDir = C:\Users\LENOVO\source\repos\coffeemap1\CoffeeMap\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\LENOVO\source\repos\CoffeeMap\CoffeeMap
+build_property.MSBuildProjectDirectory = C:\Users\LENOVO\source\repos\coffeemap1\CoffeeMap
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/LENOVO/source/repos/CoffeeMap/CoffeeMap/Views/CoffeeShops/Create.cshtml]
+[C:/Users/LENOVO/source/repos/coffeemap1/CoffeeMap/Views/CoffeeShops/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29mZmVlU2hvcHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/source/repos/CoffeeMap/CoffeeMap/Views/CoffeeShops/Delete.cshtml]
+[C:/Users/LENOVO/source/repos/coffeemap1/CoffeeMap/Views/CoffeeShops/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29mZmVlU2hvcHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/source/repos/CoffeeMap/CoffeeMap/Views/CoffeeShops/Details.cshtml]
+[C:/Users/LENOVO/source/repos/coffeemap1/CoffeeMap/Views/CoffeeShops/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29mZmVlU2hvcHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/source/repos/CoffeeMap/CoffeeMap/Views/CoffeeShops/Edit.cshtml]
+[C:/Users/LENOVO/source/repos/coffeemap1/CoffeeMap/Views/CoffeeShops/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29mZmVlU2hvcHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/source/repos/CoffeeMap/CoffeeMap/Views/CoffeeShops/Index.cshtml]
+[C:/Users/LENOVO/source/repos/coffeemap1/CoffeeMap/Views/CoffeeShops/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29mZmVlU2hvcHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/source/repos/CoffeeMap/CoffeeMap/Views/Home/Index.cshtml]
+[C:/Users/LENOVO/source/repos/coffeemap1/CoffeeMap/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/source/repos/CoffeeMap/CoffeeMap/Views/Home/Privacy.cshtml]
+[C:/Users/LENOVO/source/repos/coffeemap1/CoffeeMap/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/source/repos/CoffeeMap/CoffeeMap/Views/Products/Create.cshtml]
+[C:/Users/LENOVO/source/repos/coffeemap1/CoffeeMap/Views/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/source/repos/CoffeeMap/CoffeeMap/Views/Products/Delete.cshtml]
+[C:/Users/LENOVO/source/repos/coffeemap1/CoffeeMap/Views/Products/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/source/repos/CoffeeMap/CoffeeMap/Views/Products/Details.cshtml]
+[C:/Users/LENOVO/source/repos/coffeemap1/CoffeeMap/Views/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/source/repos/CoffeeMap/CoffeeMap/Views/Products/Edit.cshtml]
+[C:/Users/LENOVO/source/repos/coffeemap1/CoffeeMap/Views/Products/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/source/repos/CoffeeMap/CoffeeMap/Views/Products/Index.cshtml]
+[C:/Users/LENOVO/source/repos/coffeemap1/CoffeeMap/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/source/repos/CoffeeMap/CoffeeMap/Views/Reviews/Create.cshtml]
+[C:/Users/LENOVO/source/repos/coffeemap1/CoffeeMap/Views/Reviews/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/source/repos/CoffeeMap/CoffeeMap/Views/Reviews/Delete.cshtml]
+[C:/Users/LENOVO/source/repos/coffeemap1/CoffeeMap/Views/Reviews/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3c1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/source/repos/CoffeeMap/CoffeeMap/Views/Reviews/Details.cshtml]
+[C:/Users/LENOVO/source/repos/coffeemap1/CoffeeMap/Views/Reviews/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3c1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/source/repos/CoffeeMap/CoffeeMap/Views/Reviews/Edit.cshtml]
+[C:/Users/LENOVO/source/repos/coffeemap1/CoffeeMap/Views/Reviews/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/source/repos/CoffeeMap/CoffeeMap/Views/Reviews/Index.cshtml]
+[C:/Users/LENOVO/source/repos/coffeemap1/CoffeeMap/Views/Reviews/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/source/repos/CoffeeMap/CoffeeMap/Views/Shared/Error.cshtml]
+[C:/Users/LENOVO/source/repos/coffeemap1/CoffeeMap/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/source/repos/CoffeeMap/CoffeeMap/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/LENOVO/source/repos/coffeemap1/CoffeeMap/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/source/repos/CoffeeMap/CoffeeMap/Views/_ViewImports.cshtml]
+[C:/Users/LENOVO/source/repos/coffeemap1/CoffeeMap/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/source/repos/CoffeeMap/CoffeeMap/Views/_ViewStart.cshtml]
+[C:/Users/LENOVO/source/repos/coffeemap1/CoffeeMap/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/source/repos/CoffeeMap/CoffeeMap/Views/Shared/_Layout.cshtml]
+[C:/Users/LENOVO/source/repos/coffeemap1/CoffeeMap/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-fomjxat6dw

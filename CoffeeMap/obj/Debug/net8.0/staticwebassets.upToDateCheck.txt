@@ -60,11 +60,14 @@ wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 wwwroot\uploads\27ddd58780b649cb92b2eb25a235abd9.png
 wwwroot\uploads\2ea6cbfac8d644d1a5f13045fb61cee0.png
+wwwroot\uploads\39dd60640f814d0093a996f218f7e8d2.jpg
 wwwroot\uploads\43306d65c3934aa3b5d9da7b2713ea94.jpg
 wwwroot\uploads\6c93f0ddfcf347f9b2a5052985ff17a1.png
 wwwroot\uploads\7d117431af054032bd57bb4f65b783a7.png
+wwwroot\uploads\b3afbe48d88343e4a7699ebc12b8c285.jpg
 wwwroot\uploads\shops\584a3b6dadf141e6874b4af409d8b602.jpg
 wwwroot\uploads\shops\59276f61809c4c76b4fad6e782ba8a1e.png
+wwwroot\uploads\shops\5f41ca29f8664094aadf06fa597238b5.jpg
 wwwroot\uploads\shops\80760d9dbc4a48f78ea7be27d0435cd5.png
 wwwroot\uploads\shops\e23accc84c784d7895c270f061be9cbe.jpg
 wwwroot\uploads\shops\ea3828981a394a61b30534cf95a7a2b6.png
