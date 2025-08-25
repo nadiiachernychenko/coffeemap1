@@ -1,7 +1,6 @@
 services:
   - type: web
     name: aspnet-mvc-app
-    env: dotnet
+    runtime: docker
     plan: free
-    buildCommand: dotnet publish -c Release -o out
-    startCommand: dotnet out/coffeemap1.dll
+    dockerfilePath: ./Dockerfile
