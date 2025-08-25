@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: coffeemap1
-    runtime: docker
-    plan: free
-    dockerfilePath: ./Dockerfile
