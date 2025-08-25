@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: aspnet-mvc-app
+    name: coffeemap1
     runtime: docker
     plan: free
     dockerfilePath: ./Dockerfile
